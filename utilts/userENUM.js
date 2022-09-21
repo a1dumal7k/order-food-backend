@@ -1,0 +1,5 @@
+exports.role_SUPER_ADMIN = "SUPER_ADMIN"
+exports.role_ADMIN = "ADMIN"
+exports.role_ORDER_ADMIN = "ORDER_ADMIN"
+exports.role_CUSTOMER = "CUSTOMER"
+exports.role_DELIVER = "DELIVER"
